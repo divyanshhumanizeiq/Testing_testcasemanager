@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HumanizeIQ Test Case Manager 2",
+  "description": "A comprehensive application to manage test cases, track application status, view reports, and integrate with GitHub issues for HumanizeIQ. Includes AI-powered features for test case generation and report summarization.",
+  "requestFramePermissions": []
+}
